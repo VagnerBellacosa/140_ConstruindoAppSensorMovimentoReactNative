@@ -7,7 +7,16 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Introdução](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/715c0f3a-9102-4887-943e-0c6156dd19a9)[Instalando libs shake e torch](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/e1f5bfcc-bc7a-4fbd-bf74-72b63435dedc)[Baixando os ícones](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/d652f3f9-bb00-4133-a3aa-f238516efb02)[Estilizando nosso app](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/9fd75a05-9944-45a8-a5dc-df9d83ee825b)[Hook useState](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/c7dcfe7b-042b-47a2-b966-c7034e035cf0)[Hook useEffect e usando o Torch](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/8f666cc3-de1f-491e-8b78-7490b8461c6d)[Ouvindo o evento nativo do Shake](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/a2b2fb62-cfa2-4a7d-9122-c503893a0aa1)[Criar APK para compartilhar o app](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/b8e1dff8-543a-48f4-8188-b7e945cb4903)[Aula bônus - Criando uma release no github](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/d44ee9f4-bdc9-4fcb-b6f5-92b30c3ae260)[Entendendo o Desafio e Materiais Complementares](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/fd5b8583-9cc9-4db4-8a77-0ef08fd5213b)
+[Introdução](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/715c0f3a-9102-4887-943e-0c6156dd19a9)
+[Instalando libs shake e torch](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/e1f5bfcc-bc7a-4fbd-bf74-72b63435dedc)
+[Baixando os ícones](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/d652f3f9-bb00-4133-a3aa-f238516efb02)
+[Estilizando nosso app](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/9fd75a05-9944-45a8-a5dc-df9d83ee825b)
+[Hook useState](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/c7dcfe7b-042b-47a2-b966-c7034e035cf0)
+[Hook useEffect e usando o Torch](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/8f666cc3-de1f-491e-8b78-7490b8461c6d)
+[Ouvindo o evento nativo do Shake](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/a2b2fb62-cfa2-4a7d-9122-c503893a0aa1)
+[Criar APK para compartilhar o app](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/b8e1dff8-543a-48f4-8188-b7e945cb4903)
+[Aula bônus - Criando uma release no github](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/d44ee9f4-bdc9-4fcb-b6f5-92b30c3ae260)
+[Entendendo o Desafio e Materiais Complementares](https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/fd5b8583-9cc9-4db4-8a77-0ef08fd5213b)
 
 
 
